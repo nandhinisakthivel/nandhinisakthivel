@@ -18,6 +18,10 @@ void main()
         {
             printf("b is greater");
         }
+        else
+        {
+            printf("c is greater");
+        }
     }
     getch();
 }
