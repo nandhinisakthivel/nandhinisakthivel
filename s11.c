@@ -1,3 +1,5 @@
+#include<stdio.h>
+#include<conio.h>
 int main()
 {
     int n,c=0;
@@ -8,5 +10,5 @@ int main()
         c++;
     }
     printf("%d",c);
-    return 0;
+    getch();
     }
