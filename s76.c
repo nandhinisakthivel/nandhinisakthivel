@@ -18,6 +18,7 @@ int main()
     {
         printf("yes");
     }
-return 0;
+
+     return 0;
 
 }
