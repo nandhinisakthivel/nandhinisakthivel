@@ -1,4 +1,6 @@
-int main()
+#include<stdio.h>
+#include<conio.h>
+void main()
 {
     int n,c=0,i;
     scanf("%d",&n);
@@ -7,5 +9,5 @@ int main()
         c=c+i;
     }
     printf("%d",c);
-    return 0;
+    getch();
     }
