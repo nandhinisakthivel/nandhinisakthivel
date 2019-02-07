@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main()
+#include<conio.h>
+void  main()
 {
      int n,m;
     scanf("%d %d",&n,&m);
@@ -12,5 +13,5 @@ int main()
     {
         printf("odd");
     }
-    return 0;
+    getch();
 }
