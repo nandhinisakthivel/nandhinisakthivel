@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+int main()
 {
     char a[50];
     int i,n;
@@ -10,5 +9,5 @@ void main()
     {
        printf("%c",a[i]); 
     }
-    getch();
+   return 0;
 }
