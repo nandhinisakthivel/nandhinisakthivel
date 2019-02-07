@@ -3,6 +3,7 @@ int main()
     int n,q,p=1,t;
     scanf("%d",&n);
     t=n;
+  
     while(t>0)
     {
         t=t/10;
